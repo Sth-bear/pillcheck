@@ -1,4 +1,4 @@
-package com.example.getthepill
+package com.example.getthepill.presentation.main
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
